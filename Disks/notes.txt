@@ -1,0 +1,12 @@
+; reveal??
+no logo
+
+
+; wobble
+do a wobble
+
+; drop
+speed move
+
+; kill 
+something...

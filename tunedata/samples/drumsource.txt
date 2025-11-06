@@ -1,0 +1,205 @@
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$070F,$0110,$ffff,$ffff
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$ffff,$0310,$ffff,$ffff
+	dc.w	$1		; -- Spacer
+	dc.w	116		; -- length POSITION = 1600
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$ffff,$0710,$ffff,$ffff
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$ffff,$0310,$ffff,$ffff
+	dc.w	$1		; -- Spacer
+	dc.w	116		; -- length POSITION = 2c00
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$ffff,$0110,$0712,$ffff
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$ffff,$0310,$ffff,$ffff
+	dc.w	$1		; -- Spacer
+	dc.w	116		; -- length POSITION = 4200
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$070F,$0110,$0711,$ffff
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$ffff,$0310,$ffff,$ffff
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$ffff,$0710,$ffff,$ffff
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$ffff,$0310,$ffff,$ffff
+	dc.w	$2		; -- End
+
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$070F,$0110,$ffff,$0413
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$ffff,$0310,$ffff,$ffff
+	dc.w	$1		; -- Spacer
+	dc.w	116		; -- length POSITION = 1600
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$ffff,$0710,$ffff,$0413
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$ffff,$0310,$ffff,$ffff
+	dc.w	$1		; -- Spacer
+	dc.w	116		; -- length POSITION = 2c00
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$ffff,$0110,$0712,$0413
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$ffff,$0310,$ffff,$ffff
+	dc.w	$1		; -- Spacer
+	dc.w	116		; -- length POSITION = 4200
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$070F,$0110,$0711,$0413
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$ffff,$0310,$ffff,$ffff
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$ffff,$0710,$ffff,$0413
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$ffff,$0310,$ffff,$ffff
+	dc.w	$2		; -- End
+
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$070F,$0110,$ffff,$040D
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$ffff,$0310,$ffff,$ffff
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$ffff,$0710,$ffff,$060D
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$ffff,$0310,$ffff,$ffff
+	dc.w	$1		; -- Spacer
+	dc.w	232		; -- length POSITION = 2c00
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$ffff,$0110,$0712,$040D
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$ffff,$0310,$ffff,$ffff
+	dc.w	$1		; -- Spacer
+	dc.w	116		; -- length POSITION = 4200
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$0715,$ffff,$ffff,$FFFFFFFF0D
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$ffff,$ffff,$ffff,$ffff
+	dc.w	$1		; -- Spacer
+	dc.w	116		; -- length POSITION = 5800
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$ffff,$ffff,$ffff,$ffff
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$ffff,$ffff,$ffff,$ffff
+	dc.w	$1		; -- Spacer
+	dc.w	116		; -- length POSITION = 6e00
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$0718,$ffff,$ffff,$ffff
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$ffff,$ffff,$ffff,$ffff
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$0717,$ffff,$ffff,$ffff
+	dc.w	$2		; -- End
+
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$ffff,$0711,$070F,$ffff
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$ffff,$ffff,$ffff,$ffff
+	dc.w	$1		; -- Spacer
+	dc.w	116		; -- length POSITION = 1600
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$020D,$ffff,$070C,$ffff
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$ffff,$ffff,$ffff,$ffff
+	dc.w	$1		; -- Spacer
+	dc.w	116		; -- length POSITION = 2c00
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$020D,$ffff,$070F,$ffff
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$ffff,$ffff,$ffff,$ffff
+	dc.w	$1		; -- Spacer
+	dc.w	116		; -- length POSITION = 4200
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$020D,$ffff,$0710,$ffff
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$ffff,$ffff,$0417,$ffff
+	dc.w	$1		; -- Spacer
+	dc.w	116		; -- length POSITION = 5800
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$020D,$ffff,$0712,$ffff
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$ffff,$ffff,$ffff,$ffff
+	dc.w	$2		; -- End
+
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$0413,$0711,$070F,$0210
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$ffff,$ffff,$ffff,$0210
+	dc.w	$1		; -- Spacer
+	dc.w	116		; -- length POSITION = 1600
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$020D,$0413,$070C,$0410
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$ffff,$ffff,$ffff,$0210
+	dc.w	$1		; -- Spacer
+	dc.w	116		; -- length POSITION = 2c00
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$020D,$0413,$070F,$0210
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$ffff,$ffff,$ffff,$0210
+	dc.w	$1		; -- Spacer
+	dc.w	116		; -- length POSITION = 4200
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$020D,$0413,$0710,$0410
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$ffff,$ffff,$0417,$0210
+	dc.w	$1		; -- Spacer
+	dc.w	116		; -- length POSITION = 5800
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$020D,$0413,$0712,$0210
+	dc.w	$0		; -- Render
+	dc.w	2758		; -- length
+	dc.w	$ffff,$ffff,$ffff,$0210
+	dc.w	$2		; -- End
+
